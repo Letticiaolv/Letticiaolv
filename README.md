@@ -1,5 +1,4 @@
-Oie,meu nome é Letícia:)
-Estou cursando ADS!
+Cursando ADS!
 
 
 <!---
